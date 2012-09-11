@@ -47,10 +47,5 @@
 
 	wp_footer();
 ?>
-<audio autoplay="autoplay">
-  <source src="newkids.mid" type="audio/midi" />
-  Your browser does not support the audio tag.
-</audio> 
-<!-- Downloaded from here http://www.free-midi.org/song/new_kids_on_the_block-step_by_step.html -->
 </body>
 </html>
